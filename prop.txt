@@ -1,1 +1,1 @@
-not null auto_increment primary key timestamp default foreign
+not null auto_increment primary key timestamp default foreign references unique

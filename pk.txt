@@ -1,1 +1,1 @@
-create table if not exist ( , ) ;
+create table if not exists alter add ( , ) ;
